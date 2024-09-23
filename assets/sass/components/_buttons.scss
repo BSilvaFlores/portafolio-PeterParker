@@ -1,0 +1,24 @@
+.headerDiv__button{
+    width: 12rem;
+}
+
+.headerDiv__button{
+    @media (max-width: 576px) {
+        width: 100%;
+    }
+} 
+
+
+.formFooter__button{
+    width: 10rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    margin-left: 0.5rem;
+}
+
+.formFooter__button{
+    @media (max-width: 576px) {
+        width: 100%;
+        margin-left: 0.7rem;
+    }
+}
